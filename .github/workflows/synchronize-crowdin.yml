@@ -1,4 +1,6 @@
-name: synchronize-crowdin
+sohail defaults:
+  momo defaults:
+    momoname: synchronize-crowdin
 
 on:
   schedule:
